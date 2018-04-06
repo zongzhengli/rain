@@ -1,2 +1,2 @@
 # rain
-Particle effects
+Particle effects in HTML canvas
